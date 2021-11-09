@@ -28,7 +28,7 @@ $ git clone https://github.com/MGalego/php-docker.git
 Switch to the cloned directory.
 
 ```bash
-$ cd php-docker-compose
+$ cd php-docker
 ```
 
 Edit docker-compose.yml and configure the path of the source code for each project.
